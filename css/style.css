@@ -141,12 +141,6 @@ img {
 }
 
 
-
-
-
-
-
-
 /* tablet */
 
 
@@ -164,7 +158,8 @@ img {
 @media screen and (max-width: 480px) {
     
     .row{
-        flex-direction: column;
+        display: flex;
+        flex-flow: column wrap;
     }
 
     .lessons .col,
