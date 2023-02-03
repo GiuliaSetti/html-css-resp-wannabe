@@ -154,14 +154,15 @@ img {
     .steps .col,
     .why-us .col{
         width: 100%;
-        margin: 4em 0;
+        margin: 4rem 0;
     }
 
     .why-us{
         background-color: rgb(44, 44, 44);
+        padding-top: 4rem;
     }
 
-    .steps{
+    .steps, .why-us{
         margin-bottom: 0;
     }
 
