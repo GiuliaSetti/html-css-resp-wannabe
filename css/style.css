@@ -129,6 +129,23 @@ img {
  ************************************************/
 
 
+/* normale */
+
+
+@media screen and (max-width: 1140px) {
+
+    .container{
+        width: 100%;
+    }
+    
+}
+
+
+
+
+
+
+
 
 /* tablet */
 
